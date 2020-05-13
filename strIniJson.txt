@@ -1,0 +1,1 @@
+{"version":"1.0.0","time":"2020-05-10","updateUrl":"url1","adUrl":["https://mp.weixin.qq.com/s/olIlSatduNLy3H-0oZSSug","url"],"checkApps_text":"伊对,小鹿情感先生,ME,绿洲,百合婚恋,陌声,草莓聊,赫兹,右耳,轻语,比邻,对面,耳语app,约饭,兔聊,微约,无秘,探探,友加,Hello语音交友,soul,闪聊,派派,陌陌,遇见.灯遇交友,Same","checkKeys_text":"ban,pai,lian,yin,lv,tuan,budui,jun","checkDocs":[".txt,.pdf,.bmp,.jpg,.jpeg,.png","情,艳,妇,军,枪"]}
